@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maganga
 - 👀 I’m interested in Software Dev and AI
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any open source project
+- 🌱 I'm a FrontEnd Dev currently learning Backend
+- 💞️ Lets Connect
 - 📫 How to reach me codebymaganga@gmail.com
 
 <!---
