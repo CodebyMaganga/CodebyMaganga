@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maganga
 - 👀 I’m interested in Software Dev and AI
-- 🌱 I'm a FrontEnd Dev currently learning Backend
+- 🌱 I'm a MERN Developer also specialized in Vue and Python
 - 💞️ Lets Connect
 - 📫 How to reach me codebymaganga@gmail.com
 
